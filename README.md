@@ -12,3 +12,4 @@ Using the extent report library the html report gets generated in the output fol
 
  
 ![Report](report.png)
+![DetailReport](detail.png)
